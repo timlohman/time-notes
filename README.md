@@ -12,3 +12,5 @@ When enabled, time-notes replaces the functionality of the `enter` key, adding a
 
 
 ![time-notes in action](http://svencharleer.com/blog/wp-content/uploads/2016/09/time-notes.png)
+
+ThIS IS A TEST
